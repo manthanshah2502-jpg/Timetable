@@ -1,0 +1,12 @@
+{
+  "name": "Daily Topic Planner",
+  "short_name": "Topic Planner",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#4f46e5",
+  "description": "A simple daily planner for adding and checking off study topics.",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
